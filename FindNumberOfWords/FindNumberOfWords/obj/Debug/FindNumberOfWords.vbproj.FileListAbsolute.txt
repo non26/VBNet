@@ -1,0 +1,10 @@
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\bin\Debug\FindNumberOfWords.exe.config
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\bin\Debug\FindNumberOfWords.exe
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\bin\Debug\FindNumberOfWords.pdb
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\bin\Debug\FindNumberOfWords.xml
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.vbprojAssemblyReference.cache
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.Resources.resources
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.vbproj.GenerateResource.cache
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.exe
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.xml
+C:\Users\Chanon eiemrod\source\repos\FindNumberOfWords\FindNumberOfWords\obj\Debug\FindNumberOfWords.pdb
