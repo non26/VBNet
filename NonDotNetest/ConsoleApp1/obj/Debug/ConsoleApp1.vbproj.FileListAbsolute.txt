@@ -1,0 +1,10 @@
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\nonContent\DotNetFrameWork\NonDotNetest\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojAssemblyReference.cache
