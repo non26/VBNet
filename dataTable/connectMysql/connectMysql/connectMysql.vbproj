@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66DB330B-6C2F-4A69-8C1F-C5C5EF4B92C1}</ProjectGuid>
+    <ProjectGuid>{6721AA7F-0320-4345-A0B2-E60D95B02F77}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>MyTest.test</StartupObject>
-    <RootNamespace>MyTest</RootNamespace>
-    <AssemblyName>MyTest</AssemblyName>
+    <StartupObject>connectMysql.Module1</StartupObject>
+    <RootNamespace>connectMysql</RootNamespace>
+    <AssemblyName>connectMysql</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>MyTest.xml</DocumentationFile>
+    <DocumentationFile>connectMysql.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>MyTest.xml</DocumentationFile>
+    <DocumentationFile>connectMysql.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -48,6 +48,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -69,11 +70,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="test_concatenate.vb" />
-    <Compile Include="test_toArray.vb" />
-    <Compile Include="test_subString.vb" />
-    <Compile Include="test_concat\Module1.vb" />
-    <Compile Include="test.vb" />
+    <Compile Include="Module1.vb" />
+    <Compile Include="connect2Mysql.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
